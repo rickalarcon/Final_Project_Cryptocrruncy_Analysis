@@ -1,2 +1,2 @@
-# Final_Project_Cryptocrruncy_Analysis
+# Final_Project_Cryptocurrency_Analysis
  Crytocurrency Analysis
